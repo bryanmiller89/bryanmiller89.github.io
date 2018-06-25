@@ -4,7 +4,7 @@ This is my portfolio briefly showcasing some of the projects I have made working
 
 ## Website
 
-You can find a live hosted version of my portfolio on my personal website: [bryanmiller89.website](bryanmiller89.website)
+You can find a live hosted version of my portfolio on my personal website: [bryanmiller89.website](bryanmiller89.github.io)
 
 <!-- # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
 
