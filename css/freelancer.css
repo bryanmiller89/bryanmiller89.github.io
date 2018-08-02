@@ -271,7 +271,7 @@ header.masthead h2 {
 
 .floating-label-form-group {
   position: relative;
-  border-bottom: 1px solid #e9ecef;
+  border-bottom: 1px solid #adb5bd;
 }
 
 .floating-label-form-group input,
@@ -284,9 +284,8 @@ header.masthead h2 {
   padding-top: 10px;
   resize: none;
   border: none;
-  border-radius: .25rem;
+  border-radius: 0.25rem;
   background: none;
-  box-shadow: 5px 10px 18px #888888;
 }
 
 .floating-label-form-group label {
@@ -308,7 +307,7 @@ header.masthead h2 {
 
 .floating-label-form-group:not(:first-child) {
   padding-left: 14px;
-  border-left: 1px solid #e9ecef;
+  border-left: 1px solid #adb5bd;
 }
 
 .floating-label-form-group-with-value label {
